@@ -1,1 +1,1 @@
-# wordmatch
+# WordMatch project for Proglib.io
