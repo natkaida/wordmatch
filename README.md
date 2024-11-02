@@ -10,10 +10,10 @@
 
 ![1d135ceefb316e8280eb96257f2ba212](https://user-images.githubusercontent.com/85797091/183397294-e70d3fc8-0275-4f73-80a8-12e6a3363b74.jpg)
 
-write_in_file.py:
-		Скрипт создаст текстовый файл translation.txt и перепишет в него 
-		построчно вашу БД иностранных слов и переводов. Текстовый файл можно
-		скопировать на смартфон и в любое удобное время тренироваться, 
-		запоминать перевод инсотранных слов из вашей БД.
+	write_in_file.py:
+			Скрипт создаст текстовый файл translation.txt и перепишет в него 
+			построчно вашу БД иностранных слов и переводов. Текстовый файл можно
+			скопировать на смартфон и в любое удобное время тренироваться, 
+			запоминать перевод инсотранных слов из вашей БД.
 		
-! [translation.txt] (https://github.com/donKarabas/wordmatch/blob/main/pictures/translation_txt.png)
+![translation.txt](https://github.com/donKarabas/wordmatch/blob/main/pictures/translation_txt.png)
